@@ -1,0 +1,108 @@
+#startContainer {
+    width: 50em;
+}
+
+#gameCard {
+    width: 50em;
+}
+
+table {
+    border: 2px solid grey;
+}
+
+td {
+    width: 25px;
+    height: 25px;
+    background-color: #e5e4e2be;
+}
+
+.unchecked {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    vertical-align: center;
+    border-bottom: 3px solid grey;
+    border-right: 3px solid grey;
+    border-top: 3px solid whitesmoke;
+    border-left: 3px solid whitesmoke;
+    background-color: #e5e4e2be;
+}
+
+.checked {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font: bold;
+    text-align: center;
+    vertical-align: text-top;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    background-color: #e5e4e2be;
+}
+
+.checked1 {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font: bold;
+    color: black;
+    text-align: center;
+    vertical-align: text-top;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    background-color: #e5e4e2be;
+}
+
+.checked2 {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font: bold;
+    color: green;
+    text-align: center;
+    vertical-align: text-top;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    background-color: #e5e4e2be;
+}
+
+.checked3 {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font: bold;
+    color: blue;
+    text-align: center;
+    vertical-align: text-top;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    background-color: #e5e4e2be;
+}
+
+.checked4 {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font: bold;
+    color: red;
+    text-align: center;
+    vertical-align: text-top;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    background-color: #e5e4e2be;
+}
+
+.columnX3 {
+    width: 33.3%;
+    float: left;
+}
